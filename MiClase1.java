@@ -6,5 +6,7 @@ public class MiClase1
         {
             System.out.println("12 * "+ i + " = " + 12 * i + "\n");
         }
+        //cambios en local por Mariola sin hacer pull previo
+        System.out.println("Voy a generar un conflicto");
     }
 }
