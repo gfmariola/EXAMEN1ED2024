@@ -6,5 +6,7 @@ public class MiClase1
         {
             System.out.println("12 * "+ i + " = " + 12 * i + "\n");
         }
+        //segundo cambio de Lucia"
+        System.out.println("¿Cómo estás?");
     }
 }
