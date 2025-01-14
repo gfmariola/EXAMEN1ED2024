@@ -8,5 +8,7 @@ public class MiClase1
         }
         //segundo cambio de Lucia"
         System.out.println("¿Cómo estás?");
+        //cambio producido por Marcelo
+         System.out.println("Cambio de Marcelo");
     }
 }
